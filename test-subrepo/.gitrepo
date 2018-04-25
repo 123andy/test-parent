@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:123andy/test-subrepo.git
 	branch = master
-	commit = 2e80006d99e59f715789b356b534ffbe1a3c6544
-	parent = 02f89fc0f69bf622c0a99fb819535f41eeeda238
+	commit = 9f767d5a4735a3efddf6b3115a6d90e6e70764d3
+	parent = 430a7e48075dfd24461ddf5a70314ba4628deeee
 	method = merge
 	cmdver = 0.4.0
